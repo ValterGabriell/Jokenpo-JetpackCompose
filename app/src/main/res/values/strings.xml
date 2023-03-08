@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Jokenpo</string>
+    <string name="win_game">Parabéns, você venceu!</string>
+    <string name="lose_game">Você perdeu :(</string>
+    <string name="same_result">Empatou vishkkkk</string>
 </resources>
